@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RollncodeApplication</string>
+    <string name="last_service_start_time">Last start time:</string>
+    <string name="count">Count:</string>
+    <string name="button_on">Button On</string>
+    <string name="button_off">Button Off</string>
+
+    <string name="start">Start service</string>
+    <string name="stop">Stop service</string>
+    <string name="none">Service never started</string>
+</resources>
